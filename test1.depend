@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1495080025 source:/home/shahenda/Desktop/codeblocks projects/test1/main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1495659190 source:/home/shahenda/Downloads/final project/main.c
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+
